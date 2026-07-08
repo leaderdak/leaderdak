@@ -1,4 +1,4 @@
-# Hi there 👋 I'm LeaderDak
+# Hi there 👋 I'm leaderdak
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Developer;Tech+Enthusiast;Always+Learning+Something+New" />
@@ -49,6 +49,8 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/leaderdak
+- Tebex:https://nlpdevteam.tebex.io/
+- Discord:https://discord.gg/S957tNuVgK
 
 ---
 
