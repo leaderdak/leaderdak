@@ -30,14 +30,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaderdak&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
